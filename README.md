@@ -38,7 +38,6 @@ mhatr@LAPTOP c:\vue\PrashantMhatre
 $ npm install
 [ .................] - fetchMetadata: sill pacote range manifest for widest-line@^3.1.0 fetched in 403ms
 
-
 ----------------------------------------------------
 $ npm run dev
 
@@ -95,7 +94,6 @@ i Generating pages                                                              
 ----------------------------------------------------
 
 A new directory named ‘dist’ will be generated that contains the static site files (with minified code)
-
 
 ----------------------------------------------------
 # mywebsite
