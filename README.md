@@ -1,5 +1,7 @@
-# Vue.Js-Static-Site
-Vue.js Static Website
+#  Vue.js Static Website 
+
+
+![Vue.Js-Static-Site](https://github.com/mhatrep/Vue.Js-Static-Site/blob/master/assets/static-site.jpg)
 
 ----------------------------------------------------
 also read More About JAMStack : https://jamstack.org/
