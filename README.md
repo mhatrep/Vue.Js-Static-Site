@@ -25,5 +25,15 @@ $ vue init nuxt/starter PrashantMhatre
      npm run dev
 
 ----------------------------------------------------
+mhatr@LAPTOP-0AIQ4IVM c:\vue
+$ cd PrashantMhatre
+
+mhatr@LAPTOP-0AIQ4IVM c:\vue\PrashantMhatre
+$ npm install
+[ .................] - fetchMetadata: sill pacote range manifest for widest-line@^3.1.0 fetched in 403ms
+
+
+----------------------------------------------------
+
 
 
