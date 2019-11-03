@@ -1,6 +1,10 @@
 # Vue.Js-Static-Site
 Vue.js Static Website
 
+----------------------------------------------------
+also read More About JAMStack : https://jamstack.org/
+----------------------------------------------------
+
 ## Assuming you have installed npm / node.js
 
 ----------------------------------------------------
@@ -88,4 +92,4 @@ i Generating pages                                                              
 
 ----------------------------------------------------
 
-
+A new directory named ‘dist’ will be generated that contains the static site files (with minified code)
