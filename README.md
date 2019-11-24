@@ -120,3 +120,14 @@ $ npm run generate
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
 
 
+----------------------------------------------------
+
+## Some Interesting articles on JAMStack
+
+https://medium.com/free-code-camp/an-introduction-to-the-jamstack-the-architecture-of-the-modern-web-c4a0d128d9ca
+
+https://medium.com/memory-leak/the-jamstack-its-pretty-sweet-e0834e4e6bb7
+
+https://medium.com/netlify/jamstack-with-gatsby-netlify-and-netlify-cms-a300735e2c5d
+
+
